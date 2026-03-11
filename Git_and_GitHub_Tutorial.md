@@ -182,7 +182,7 @@ git log -5
 # Show commits with file changes
 git log --stat
 
-# Show differnce between differnt commits
+# Show differnce between different commits
 git log -p
 
 # Graphical representation
